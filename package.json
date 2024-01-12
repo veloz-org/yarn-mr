@@ -1,0 +1,15 @@
+{
+  "name": "yarn-mr",
+  "version": "1.0.0",
+  "description": "yarn workspaces mononrepo management",
+  "main": "",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "yarn workspaces . dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
