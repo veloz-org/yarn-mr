@@ -9,7 +9,7 @@ This repository is specifically designed to harness the power of **yarn workspac
 - Clone the repo
 
 ```bash
-git clone <url> <path>
+git clone https://github.com/veloz-org/yarn-mr.git project-name
 ```
 
 - Add necessary packages within the `/packages` directory.
